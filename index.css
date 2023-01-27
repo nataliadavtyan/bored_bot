@@ -1,0 +1,41 @@
+body {
+    background: #283618;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Inter, sans-serif;
+}
+
+h1, h4 {
+    margin: 0;
+    color: #fefae0;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    text-shadow: 4rem 2.2rem;
+    margin: 3em 0;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 2rem;
+    text-align: center;
+    line-height: 1.4;
+    margin-bottom: 3.5em;
+}
+
+button {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #bf0603;
+    border: 10px solid #a10502;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.98);
+}
