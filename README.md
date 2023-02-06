@@ -20,11 +20,11 @@ The project is built using:
 ## Technical details
 * Used API to fetch the list of activities.
 
-## Acknowledgements
-The core of this project was built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend) by Bob Ziroll and later edited by me.
-
 ## Project status
 The project is complete.
+
+## Acknowledgements
+The core of this project was built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend) by Bob Ziroll and later edited by me.
 
 ## Contact
 Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
