@@ -8,7 +8,7 @@ Users press the button and a new activity is rendered on their screens.
 ## Demo
 ![The demonstration](./bored-bot.gif)
 
-Test it on Netlify: https://adorable-tulumba-cc5f8e.netlify.app/
+Test it on Netlify: https://bored-bot-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
